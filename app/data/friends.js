@@ -1,0 +1,165 @@
+
+var friendList = [
+{
+      name:'Steve',
+      photo:'https://i.imgur.com/UJq3Uh2.jpg',
+      scores:[
+         "5",
+         "1",
+         "4",
+         "4",
+         "5",
+         "1",
+         "2",
+         "5",
+         "4",
+         "1"
+          ]
+ },
+ {
+  name:'Ivan',
+  photo:'https://i.imgur.com/wE25wRs.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "4",
+     "5",
+     "1",
+     "2",
+     "5",
+     "4",
+     "1"
+      ]
+},
+{
+  name:'Maxine',
+  photo:'https://i.imgur.com/Xf0HLPo.jpg',
+  scores:[
+     "4",
+     "1",
+     "4",
+     "4",
+     "5",
+     "1",
+     "2",
+     "5",
+     "4",
+     "1"
+      ]
+},
+{
+  name:'Kathleen',
+  photo:'https://i.imgur.com/moVaqu6.png',
+  'scores':[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "2",
+     "4",
+     "4",
+     "4",
+     "4"
+      ]
+},
+{
+  name:'Macy',
+  photo:'https://i.imgur.com/iP2G0k9.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "1",
+     "4",
+     "3",
+     "4",
+     "4"
+      ]
+},
+{
+  name:'Leslie',
+  photo:'https://i.imgur.com/UFxKPtD.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "1",
+     "4",
+     "3",
+     "4",
+     "4"
+      ]
+},
+{
+  name:'Natalie',
+  photo:'https://i.imgur.com/DIXzXv4.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "1",
+     "4",
+     "3",
+     "4",
+     "4"
+      ]
+},
+{
+  name:'Jarod',
+  photo:'https://i.imgur.com/MSL0hPO.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "1",
+     "4",
+     "2",
+     "4",
+     "4"
+      ]
+},
+{
+  name:'Kenneth',
+  photo:'https://i.imgur.com/4TEFbfz.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "1",
+     "4",
+     "3",
+     "4",
+     "4"
+      ]
+},
+{
+  name:'Gabriel',
+  photo:'https://i.imgur.com/XLM7sB1.jpg',
+  scores:[
+     "5",
+     "1",
+     "4",
+     "3",
+     "2",
+     "1",
+     "4",
+     "3",
+     "4",
+     "4"
+      ]
+}
+]
+
+module.exports = friendList;
